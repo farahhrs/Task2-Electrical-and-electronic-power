@@ -38,4 +38,4 @@ void loop()
   }
 }
 ```
-This circuit enable the auto shutdown by the arduino, the motor only move when the pushbutton has clicked, otherwise the motor will never run.
+This circuit enable the auto shutdown by the arduino, the motor will rotate only when the pushbutton clicked, otherwise the motor will never rotate.
