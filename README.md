@@ -31,10 +31,11 @@ void loop()
 {
   int buttonState = digitalRead(pushButton);
   if(buttonState==1){
-  	digitalWrite(mosfetGate, HIGH);
+  	digitalWrite(mosfetGate, HIGH); //turn on the motor
   }
   else{
-  	digitalWrite(mosfetGate, LOW);
+  	digitalWrite(mosfetGate, LOW); //turn off the motor
   }
 }
 ```
+This circuit enable the auto shutdown by the arduino, the motor only move when the pushbutton has clicked, otherwise the motor will never run.
