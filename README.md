@@ -12,3 +12,29 @@ In this task I made an electronic circuit that consists of the folloiwng compone
 - Arduino Uno R3
 - Pushbutton1 
 - kΩ Resistor
+
+Arduion code:
+```
+// C++ code
+//
+#define mosfetGate 6
+#define pushButton 2
+
+void setup()
+{
+  pinMode(mosfetGate, OUTPUT);
+  pinMode(pushButton, INPUT);
+
+}
+
+void loop()
+{
+  int buttonState = digitalRead(pushButton);
+  if(buttonState==1){
+  	digitalWrite(mosfetGate, HIGH);
+  }
+  else{
+  	digitalWrite(mosfetGate, LOW);
+  }
+}
+```
