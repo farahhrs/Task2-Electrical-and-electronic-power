@@ -40,6 +40,7 @@ void loop()
 ```
 This circuit enable the auto shutdown by the arduino, the motor will rotate only when the pushbutton clicked, otherwise the motor will never rotate.
 - Click [here](https://www.tinkercad.com/things/hP8x8h8XdHQ-bodacious-jaiks-crift/editel?sharecode=Dn_C5lPQhzsvtIkSJjDFKiJFKJQM5L63AIrcKs9e6DA) to simulate the circuit on tinkercad.
+------------------------------------
 
 ## Forward kinematics & inverse kinematics
 In this task I draw a robot arm with a 3 DOF, then I applied the forward kinematics and the inverse kinematics to find angle measures and (x, y) point.
@@ -129,5 +130,6 @@ In this task I draw a robot arm with a 3 DOF, then I applied the forward kinemat
 
   - The solution:
       >  (x,y)= (38.75, 18.02)
+  -----------------------
 
-Click [here]() to see the file that contains the whole calculations and soltuions 
+#### Click [here](https://github.com/farahhrs/Task2-Electrical-and-electronic-power/blob/main/Forward%20kinematics%20%26%20inverse%20kinematics/Forward%20and%20inverse%20kinematics.pdf) to see the file that contains the whole calculations and soltuions 
