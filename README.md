@@ -126,7 +126,8 @@ In this task I draw a robot arm with a 3 DOF, then I applied the forward kinemat
       >  Y= (12 sin 𝟒𝟓 + 18 sin 𝟑𝟐)
       >  
       >  Y= 18.02
-      >  
+
+  - The solution:
       >  (x,y)= (38.75, 18.02)
 
 Click [here]() to see the file that contains the whole calculations and soltuions 
