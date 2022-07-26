@@ -1,7 +1,7 @@
 # Task2-Electrical-and-electronic-power
 This repository contains two subtasks:
 - On off system
-- 
+- Forward kinematics & inverse kinematics
 ## On off system
 In this task I made an electronic circuit that consists of the folloiwng components:
 - Small Signal nMOS Transistor
@@ -40,3 +40,6 @@ void loop()
 ```
 This circuit enable the auto shutdown by the arduino, the motor will rotate only when the pushbutton clicked, otherwise the motor will never rotate.
 - Click [here](https://www.tinkercad.com/things/hP8x8h8XdHQ-bodacious-jaiks-crift/editel?sharecode=Dn_C5lPQhzsvtIkSJjDFKiJFKJQM5L63AIrcKs9e6DA) to simulate the circuit on tinkercad.
+
+## Forward kinematics & inverse kinematics
+
