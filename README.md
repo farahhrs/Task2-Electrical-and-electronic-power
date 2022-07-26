@@ -1,7 +1,7 @@
 # Task2-Electrical-and-electronic-power
 This repository contains two subtasks:
 - [On off system](https://github.com/farahhrs/Task2-Electrical-and-electronic-power/blob/main/README.md#on-off-system)
-- [Forward kinematics & inverse kinematics]()
+- [Forward kinematics & inverse kinematics](https://github.com/farahhrs/Task2-Electrical-and-electronic-power/blob/main/README.md#forward-kinematics--inverse-kinematics)
 ## On off system
 In this task I made an electronic circuit that consists of the folloiwng components:
 - Small Signal nMOS Transistor
